@@ -1,7 +1,8 @@
 # Strangemouse223.github.io
 
 1. Name and Email address
-Michael Paxton ONeal EM: mponeal@my.waketech.edu
+** Michael Paxton ONeal 
+** mponeal@my.waketech.edu
 2. Brief description of your github account
 
 3. A brief desricption of the repository you created
